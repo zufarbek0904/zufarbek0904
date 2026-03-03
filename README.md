@@ -46,7 +46,7 @@ Frontend Engineer
 
 📫 Contact:
 
-Telegram: @umidbekruzmetov
+Telegram: ???
 
 ---
 
