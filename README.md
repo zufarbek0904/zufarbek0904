@@ -28,13 +28,15 @@
 
 ![Snake animation](https://raw.githubusercontent.com/zufarbek0904/zufarbek0904/output/github-contribution-grid-snake.svg)
 
-
 name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -43,11 +45,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: zufarbek0904
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
