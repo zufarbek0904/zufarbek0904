@@ -1,38 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Zufarbek!
 
-<!--
-**zufarbek0904/zufarbek0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-name: Generate Snake
+* 🚀 Frontend Developer
+* 🌱 Currently learning React & JavaScript
+* 📍 From Uzbekistan
+* 📫 How to reach me: [your_email@gmail.com](mailto:your_email@gmail.com)
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+---
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: zufarbek0904
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zufarbek0904\&show_icons=true\&theme=radical)
+
+---
+
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/zufarbek0904/zufarbek0904/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ From [zufarbek0904](https://github.com/zufarbek0904)
