@@ -1,30 +1,76 @@
-# 👋 Hi there, I'm Zufarbek!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Zufarbek%20Matyoqubov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-## 💻 About Me
+<h2 align="center">
+Frontend Engineer
+</h2>
 
-* 🚀 Frontend Developer
-* 🌱 Currently learning React & JavaScript
-* 📍 From Uzbekistan
-* 📫 How to reach me: [your_email@gmail.com](mailto:your_email@gmail.com)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&width=600&lines=Frontend+Engineer;React+Developer;Vue+Developer;Next.js+Developer;Nuxt.js+Developer" />
+</p>
 
----
+<p align="center">
+📍 Uzbekistan, Khorezm
+</p>
 
-## 🛠 Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zufarbek0904\&show_icons=true\&theme=radical)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Umid2720&label=Visitors&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-## 🐍 My Contributions
+# 🚀 Tech Stack
 
-![Snake animation](https://raw.githubusercontent.com/zufarbek0904/zufarbek0904/output/github-contribution-grid-snake.svg)
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,git,github,vue,react,nextjs,nginx" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LESS-black?style=for-the-badge&logo=less"/>
+
+<img src="https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 💻 Frontend Engineer
+- ⚡️ Specialized in React & Vue Ecosystem
+- 🌱 Always learning new technologies
+- 🔥 Working with modern frontend tools
+- 🧠 Strong knowledge of UI/UX
+
+📫 Contact:
+
+Telegram: @umidbekruzmetov
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180"
+src="https://streak-stats.demolab.com?user=Umid2720&theme=tokyonight&hide_border=true&v=1"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umid2720&theme=tokyo-night&hide_border=true&v=1"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake 
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Umid2720/Umid2720/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
