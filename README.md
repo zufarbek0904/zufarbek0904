@@ -65,7 +65,7 @@ src="https://streak-stats.demolab.com?user=zufarbek0904&theme=tokyonight&hide_bo
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ufarbek0904&theme=tokyo-night&hide_border=true&v=1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zufarbek0904&theme=tokyo-night&hide_border=true&v=1"/>
 
 </p>
 
@@ -73,4 +73,4 @@ src="https://streak-stats.demolab.com?user=zufarbek0904&theme=tokyonight&hide_bo
 
 ## 🐍 Contribution Snake 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/ufarbek0904/ufarbek0904/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/zufarbek0904/zufarbek0904/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
