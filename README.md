@@ -55,7 +55,7 @@ Telegram: ???
 <p align="center">
 
 <img height="180"
-src="https://streak-stats.demolab.com?user=Umid2720&theme=tokyonight&hide_border=true&v=1"/>
+src="https://streak-stats.demolab.com?user=zufarbek0904&theme=tokyonight&hide_border=true&v=1"/>
 
 </p>
 
@@ -65,7 +65,7 @@ src="https://streak-stats.demolab.com?user=Umid2720&theme=tokyonight&hide_border
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umid2720&theme=tokyo-night&hide_border=true&v=1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ufarbek0904&theme=tokyo-night&hide_border=true&v=1"/>
 
 </p>
 
@@ -73,4 +73,4 @@ src="https://streak-stats.demolab.com?user=Umid2720&theme=tokyonight&hide_border
 
 ## 🐍 Contribution Snake 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Umid2720/Umid2720/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/ufarbek0904/ufarbek0904/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
