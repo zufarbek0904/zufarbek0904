@@ -13,7 +13,7 @@ Frontend Engineer
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Umid2720&label=Visitors&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=zufarbek0904&label=Visitors&color=0e75b6&style=flat"/>
 </p>
 
 ---
