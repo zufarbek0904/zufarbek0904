@@ -52,7 +52,7 @@
 # 📫 Contact Me
 
 <p align="center">
-<a href="https://t.me/zufarbek0904">
+<a href="https://t.me/@zvrx01">
 <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram"/>
 </a>
 </p>
