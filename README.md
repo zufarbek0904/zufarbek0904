@@ -71,7 +71,7 @@
 ## 📫 Contact
 
 <p align="center">
-<a href="https://t.me/zufarbek0904">
+<a href="https://t.me/zvrx01">
 <img src="https://img.shields.io/badge/Telegram-Contact-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 </p>
